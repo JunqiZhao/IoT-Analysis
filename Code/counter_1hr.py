@@ -63,8 +63,8 @@ with open('event_messages.csv', 'r') as csv_file:
     for line in stats:
         if line == ["Start Time","End Time", "Counts"]:
             pass
-        line[0] = line[0].strftime("%d/%m/%Y %H:%M")
-        line[1] = line[1].strftime("%d/%m/%Y %H:%M")
+        line[0] = line[0].strftime("%m/%d/%Y %H:%M")
+        line[1] = line[1].strftime("%m/%d/%Y %H:%M")
 
     time_interval=[]
     counts=[]
@@ -85,7 +85,10 @@ with open('event_messages.csv', 'r') as csv_file:
     plt.xticks(y_pos, objects)
     plt.ylabel('counts')
     plt.title('counter for 1h')
+    plt.xticks(rotation=88)
 
+    for i, v in enumerate(performance):
+        plt.text(y_pos[i] - 0.25, v + 0.01, str(v))
     plt.show()
 
     # stats = [["Start Time", "End Time", "Counts"]] + stats
