@@ -1,0 +1,328 @@
+EventTime,DeviceName,RSSI,SNR,Description
+9/17/2020 19:17,Dry Contact Sensor 01,-49,9.5,Contacts opened
+9/17/2020 19:17,Dry Contact Sensor 01,-39,8.2,Contacts Shorted
+9/17/2020 19:15,Dry Contact Sensor 01,-42,9.2,Contacts opened
+9/17/2020 19:15,Dry Contact Sensor 01,-45,8.8,Contacts Shorted
+9/17/2020 19:11,Dry Contact Sensor 01,-33,9.8,Contacts opened
+9/17/2020 19:11,Dry Contact Sensor 01,-39,9.8,Contacts Shorted
+9/17/2020 19:11,Dry Contact Sensor 01,-42,8.5,Contacts opened
+9/17/2020 19:11,Dry Contact Sensor 01,-45,8.5,Contacts Shorted
+9/17/2020 19:10,Dry Contact Sensor 01,-41,8.8,Contacts opened
+9/17/2020 19:10,Dry Contact Sensor 01,-43,9,Contacts Shorted
+9/17/2020 19:08,Dry Contact Sensor 01,-42,10.5,Contacts opened
+9/17/2020 19:08,Dry Contact Sensor 01,-45,8.8,Contacts Shorted
+9/17/2020 19:06,Dry Contact Sensor 01,-35,7.8,Contacts opened
+9/17/2020 19:06,Dry Contact Sensor 01,-41,8,Contacts Shorted
+9/17/2020 19:06,Dry Contact Sensor 01,-39,7.2,Contacts opened
+9/17/2020 19:06,Dry Contact Sensor 01,-39,10,Contacts Shorted
+9/17/2020 19:06,Dry Contact Sensor 01,-34,7.2,Contacts opened
+9/17/2020 19:06,Dry Contact Sensor 01,-37,7.8,Contacts Shorted
+9/17/2020 19:01,Dry Contact Sensor 01,-37,10,Contacts opened
+9/17/2020 19:01,Dry Contact Sensor 01,-38,9,Contacts Shorted
+9/17/2020 19:00,Dry Contact Sensor 01,-37,10,Contacts opened
+9/17/2020 19:00,Dry Contact Sensor 01,-36,10.8,Contacts Shorted
+9/17/2020 18:56,Dry Contact Sensor 01,-42,9.8,Contacts opened
+9/17/2020 18:56,Dry Contact Sensor 01,-43,9.8,Contacts Shorted
+9/17/2020 18:56,Dry Contact Sensor 01,-42,10.5,Contacts opened
+9/17/2020 18:56,Dry Contact Sensor 01,-41,11,Contacts Shorted
+9/17/2020 18:55,Dry Contact Sensor 01,-39,7.8,Contacts opened
+9/17/2020 18:55,Dry Contact Sensor 01,-45,7,Contacts Shorted
+9/17/2020 18:54,Dry Contact Sensor 01,-44,10,Contacts opened
+9/17/2020 18:54,Dry Contact Sensor 01,-43,10.2,Contacts Shorted
+9/17/2020 18:54,Dry Contact Sensor 01,-39,10.5,Contacts opened
+9/17/2020 18:54,Dry Contact Sensor 01,-42,8.8,Contacts Shorted
+9/17/2020 18:53,Dry Contact Sensor 01,-44,9,Contacts opened
+9/17/2020 18:53,Dry Contact Sensor 01,-38,9.5,Contacts Shorted
+9/17/2020 18:53,Dry Contact Sensor 01,-41,7.8,Contacts opened
+9/17/2020 18:53,Dry Contact Sensor 01,-36,10.2,Contacts Shorted
+9/17/2020 18:53,Dry Contact Sensor 01,-41,9.5,Contacts opened
+9/17/2020 18:53,Dry Contact Sensor 01,-42,9.5,Contacts Shorted
+9/17/2020 18:43,Dry Contact Sensor 01,-33,7.5,Contacts opened
+9/17/2020 18:43,Dry Contact Sensor 01,-35,9.5,Contacts Shorted
+9/17/2020 18:42,Dry Contact Sensor 01,-37,8.8,Contacts opened
+9/17/2020 18:42,Dry Contact Sensor 01,-30,7.8,Contacts Shorted
+9/17/2020 18:42,Dry Contact Sensor 01,-29,9.2,Contacts opened
+9/17/2020 18:42,Dry Contact Sensor 01,-29,8.8,Contacts Shorted
+9/17/2020 18:41,Dry Contact Sensor 01,-38,10,Contacts opened
+9/17/2020 18:41,Dry Contact Sensor 01,-37,9.8,Contacts Shorted
+9/17/2020 18:41,Dry Contact Sensor 01,-32,7.5,Contacts opened
+9/17/2020 18:41,Dry Contact Sensor 01,-35,10,Contacts Shorted
+9/17/2020 18:38,Dry Contact Sensor 01,-35,9,Contacts opened
+9/17/2020 18:38,Dry Contact Sensor 01,-35,6.8,Contacts Shorted
+9/17/2020 18:38,Dry Contact Sensor 01,-33,9.5,Contacts opened
+9/17/2020 18:38,Dry Contact Sensor 01,-38,9,Contacts Shorted
+9/17/2020 18:38,Dry Contact Sensor 01,-44,9,Contacts opened
+9/17/2020 18:38,Dry Contact Sensor 01,-35,10,Contacts Shorted
+9/17/2020 18:38,Dry Contact Sensor 01,-36,7.2,Contacts opened
+9/17/2020 18:38,Dry Contact Sensor 01,-35,8,Contacts Shorted
+9/17/2020 18:36,Dry Contact Sensor 01,-38,9.5,Contacts opened
+9/17/2020 18:36,Dry Contact Sensor 01,-35,6.5,Contacts Shorted
+9/17/2020 18:36,Dry Contact Sensor 01,-32,10.2,Contacts opened
+9/17/2020 18:36,Dry Contact Sensor 01,-30,9.2,Contacts Shorted
+9/17/2020 18:35,Dry Contact Sensor 01,-35,8.8,Contacts opened
+9/17/2020 18:35,Dry Contact Sensor 01,-41,8.8,Contacts Shorted
+9/17/2020 18:35,Dry Contact Sensor 01,-30,9.8,Contacts opened
+9/17/2020 18:35,Dry Contact Sensor 01,-30,9.5,Contacts Shorted
+9/17/2020 18:35,Dry Contact Sensor 01,-35,9.2,Contacts opened
+9/17/2020 18:35,Dry Contact Sensor 01,-31,8.8,Contacts Shorted
+9/17/2020 18:35,Dry Contact Sensor 01,-30,9.5,Contacts opened
+9/17/2020 18:35,Dry Contact Sensor 01,-31,8.5,Contacts Shorted
+9/17/2020 18:34,Dry Contact Sensor 01,-36,9.8,Contacts opened
+9/17/2020 18:34,Dry Contact Sensor 01,-41,7.2,Contacts Shorted
+9/17/2020 18:34,Dry Contact Sensor 01,-36,7.2,Contacts opened
+9/17/2020 18:34,Dry Contact Sensor 01,-33,8.5,Contacts Shorted
+9/17/2020 18:32,Dry Contact Sensor 01,-47,9,Contacts opened
+9/17/2020 18:32,Dry Contact Sensor 01,-33,8,Contacts Shorted
+9/17/2020 18:32,Dry Contact Sensor 01,-37,6,Contacts opened
+9/17/2020 18:32,Dry Contact Sensor 01,-37,8.8,Contacts Shorted
+9/17/2020 18:32,Dry Contact Sensor 01,-37,8.5,Contacts opened
+9/17/2020 18:31,Dry Contact Sensor 01,-36,9.8,Contacts Shorted
+9/17/2020 18:31,Dry Contact Sensor 01,-41,9.8,Contacts opened
+9/17/2020 18:31,Dry Contact Sensor 01,-39,9.5,Contacts Shorted
+9/17/2020 18:25,Dry Contact Sensor 01,-44,8.8,Contacts opened
+9/17/2020 18:25,Dry Contact Sensor 01,-41,9.8,Contacts Shorted
+9/17/2020 18:22,Dry Contact Sensor 01,-40,9.5,Contacts opened
+9/17/2020 18:22,Dry Contact Sensor 01,-43,9.8,Contacts Shorted
+9/17/2020 18:21,Dry Contact Sensor 01,-41,8.8,Contacts opened
+9/17/2020 18:21,Dry Contact Sensor 01,-47,8,Contacts opened
+9/17/2020 18:20,Dry Contact Sensor 01,-43,10.5,Contacts Shorted
+9/17/2020 18:20,Dry Contact Sensor 01,-45,10.5,Contacts opened
+9/17/2020 18:20,Dry Contact Sensor 01,-39,7.8,Contacts Shorted
+9/17/2020 18:20,Dry Contact Sensor 01,-47,11,Contacts opened
+9/17/2020 18:19,Dry Contact Sensor 01,-38,7,Contacts Shorted
+9/17/2020 18:19,Dry Contact Sensor 01,-38,9.8,Contacts opened
+9/17/2020 18:19,Dry Contact Sensor 01,-38,7.5,Contacts Shorted
+9/17/2020 18:18,Dry Contact Sensor 01,-42,10.5,Contacts opened
+9/17/2020 18:18,Dry Contact Sensor 01,-43,10,Contacts Shorted
+9/17/2020 18:13,Dry Contact Sensor 01,-59,9,Contacts opened
+9/17/2020 18:13,Dry Contact Sensor 01,-49,8.5,Contacts Shorted
+9/17/2020 18:10,Dry Contact Sensor 01,-35,10.2,Contacts opened
+9/17/2020 18:10,Dry Contact Sensor 01,-39,7.8,Contacts Shorted
+9/17/2020 18:09,Dry Contact Sensor 01,-33,10,Contacts opened
+9/17/2020 18:09,Dry Contact Sensor 01,-30,8,Contacts Shorted
+9/17/2020 18:07,Dry Contact Sensor 01,-28,9.2,Contacts opened
+9/17/2020 18:05,Dry Contact Sensor 01,-37,9.8,Contacts opened
+9/17/2020 18:04,Dry Contact Sensor 01,-31,9,Contacts Shorted
+9/17/2020 18:02,Dry Contact Sensor 01,-35,10.2,Contacts opened
+9/17/2020 18:02,Dry Contact Sensor 01,-29,9.2,Contacts Shorted
+9/17/2020 17:53,Dry Contact Sensor 01,-36,8.8,Contacts opened
+9/17/2020 17:53,Dry Contact Sensor 01,-37,10.2,Contacts Shorted
+9/17/2020 17:52,Dry Contact Sensor 01,-33,7.8,Contacts opened
+9/17/2020 17:52,Dry Contact Sensor 01,-36,9.5,Contacts Shorted
+9/17/2020 17:52,Dry Contact Sensor 01,-37,8.8,Contacts opened
+9/17/2020 17:52,Dry Contact Sensor 01,-35,9.2,Contacts Shorted
+9/17/2020 17:52,Dry Contact Sensor 01,-33,9.8,Contacts opened
+9/17/2020 17:52,Dry Contact Sensor 01,-36,7.2,Contacts Shorted
+9/17/2020 17:51,Dry Contact Sensor 01,-38,10,Contacts opened
+9/17/2020 17:51,Dry Contact Sensor 01,-33,9.5,Contacts Shorted
+9/17/2020 17:31,Dry Contact Sensor 01,-36,6.5,Contacts opened
+9/17/2020 17:31,Dry Contact Sensor 01,-38,9.8,Contacts Shorted
+9/17/2020 17:31,Dry Contact Sensor 01,-41,7,Contacts opened
+9/17/2020 17:31,Dry Contact Sensor 01,-38,10,Contacts Shorted
+9/17/2020 17:31,Dry Contact Sensor 01,-41,9.2,Contacts opened
+9/17/2020 17:31,Dry Contact Sensor 01,-35,9.5,Contacts Shorted
+9/17/2020 17:31,Dry Contact Sensor 01,-42,8.2,Contacts Shorted
+9/17/2020 17:31,Dry Contact Sensor 01,-45,8,Contacts opened
+9/17/2020 17:30,Dry Contact Sensor 01,-44,8,Contacts Shorted
+9/17/2020 17:25,Dry Contact Sensor 01,-48,9,Contacts opened
+9/17/2020 17:25,Dry Contact Sensor 01,-29,10,Contacts Shorted
+9/17/2020 17:25,Dry Contact Sensor 01,-30,10.8,Contacts opened
+9/17/2020 17:25,Dry Contact Sensor 01,-33,9.8,Contacts Shorted
+9/17/2020 17:24,Dry Contact Sensor 01,-48,8.2,Contacts opened
+9/17/2020 17:24,Dry Contact Sensor 01,-41,6.8,Contacts Shorted
+9/17/2020 16:06,Dry Contact Sensor 01,-29,9.5,Contacts opened
+9/17/2020 16:06,Dry Contact Sensor 01,-30,9.2,Contacts Shorted
+9/17/2020 16:05,Dry Contact Sensor 01,-31,11.2,Contacts opened
+9/17/2020 16:05,Dry Contact Sensor 01,-31,9,Contacts Shorted
+9/17/2020 14:59,Dry Contact Sensor 01,-33,10.8,Contacts opened
+9/17/2020 14:58,Dry Contact Sensor 01,-42,9.8,Contacts Shorted
+9/17/2020 14:58,Dry Contact Sensor 01,-45,7.2,Contacts opened
+9/17/2020 14:58,Dry Contact Sensor 01,-39,9,Contacts Shorted
+9/17/2020 14:57,Dry Contact Sensor 01,-41,7,Contacts opened
+9/17/2020 14:57,Dry Contact Sensor 01,-58,8.8,Contacts Shorted
+9/17/2020 14:57,Dry Contact Sensor 01,-39,9.5,Contacts opened
+9/17/2020 14:57,Dry Contact Sensor 01,-41,8.2,Contacts Shorted
+9/17/2020 14:57,Dry Contact Sensor 01,-39,8.8,Contacts opened
+9/17/2020 14:57,Dry Contact Sensor 01,-36,9.5,Contacts Shorted
+9/17/2020 14:54,Dry Contact Sensor 01,-37,9.2,Contacts opened
+9/17/2020 14:54,Dry Contact Sensor 01,-38,9.2,Contacts Shorted
+9/17/2020 14:54,Dry Contact Sensor 01,-39,7.8,Contacts opened
+9/17/2020 14:54,Dry Contact Sensor 01,-41,9.5,Contacts Shorted
+9/17/2020 14:48,Dry Contact Sensor 01,-37,9.5,Contacts opened
+9/17/2020 14:47,Dry Contact Sensor 01,-39,8.2,Contacts Shorted
+9/17/2020 14:44,Dry Contact Sensor 01,-36,9.5,Contacts opened
+9/17/2020 14:44,Dry Contact Sensor 01,-36,10,Contacts Shorted
+9/17/2020 14:44,Dry Contact Sensor 01,-31,9.2,Contacts opened
+9/17/2020 14:44,Dry Contact Sensor 01,-35,11,Contacts Shorted
+9/17/2020 14:43,Dry Contact Sensor 01,-33,8.2,Contacts opened
+9/17/2020 14:43,Dry Contact Sensor 01,-37,8,Contacts Shorted
+9/17/2020 14:42,Dry Contact Sensor 01,-36,9,Contacts opened
+9/17/2020 14:42,Dry Contact Sensor 01,-36,8.8,Contacts Shorted
+9/17/2020 14:40,Dry Contact Sensor 01,-33,9.8,Contacts opened
+9/17/2020 14:40,Dry Contact Sensor 01,-49,9.8,Contacts Shorted
+9/17/2020 14:40,Dry Contact Sensor 01,-38,9.5,Contacts opened
+9/17/2020 14:40,Dry Contact Sensor 01,-39,7.5,Contacts Shorted
+9/17/2020 14:39,Dry Contact Sensor 01,-33,7.2,Contacts opened
+9/17/2020 14:39,Dry Contact Sensor 01,-33,9,Contacts Shorted
+9/17/2020 14:38,Dry Contact Sensor 01,-36,9.5,Contacts opened
+9/17/2020 14:38,Dry Contact Sensor 01,-37,8.8,Contacts Shorted
+9/17/2020 14:37,Dry Contact Sensor 01,-35,12.8,Contacts opened
+9/17/2020 14:37,Dry Contact Sensor 01,-32,11.5,Contacts Shorted
+9/17/2020 14:36,Dry Contact Sensor 01,-38,9.5,Contacts opened
+9/17/2020 14:36,Dry Contact Sensor 01,-39,11.5,Contacts Shorted
+9/17/2020 14:35,Dry Contact Sensor 01,-38,11.5,Reset Hardware Version: 2.4 Firmware Version: 2.0.1
+9/17/2020 3:32,Dry Contact Sensor 01,-17,8.2,Enclosure Open
+9/17/2020 3:31,Dry Contact Sensor 01,-38,9.2,Contacts opened
+9/17/2020 3:31,Dry Contact Sensor 01,-26,9,Contacts Shorted
+9/17/2020 3:30,Dry Contact Sensor 01,-33,11,Contacts opened
+9/17/2020 3:30,Dry Contact Sensor 01,-29,10,Contacts Shorted
+9/17/2020 3:29,Dry Contact Sensor 01,-26,9.5,Contacts opened
+9/17/2020 3:29,Dry Contact Sensor 01,-26,9.2,Contacts Shorted
+9/17/2020 3:29,Dry Contact Sensor 01,-29,8.5,Contacts opened
+9/17/2020 3:29,Dry Contact Sensor 01,-23,7.5,Contacts Shorted
+9/17/2020 3:28,Dry Contact Sensor 01,-26,10,Contacts opened
+9/17/2020 3:28,Dry Contact Sensor 01,-25,9.5,Contacts Shorted
+9/17/2020 3:28,Dry Contact Sensor 01,-23,7,Contacts opened
+9/17/2020 3:28,Dry Contact Sensor 01,-26,10,Contacts Shorted
+9/17/2020 3:28,Dry Contact Sensor 01,-23,6.5,Contacts opened
+9/17/2020 3:28,Dry Contact Sensor 01,-25,10.5,Contacts Shorted
+9/17/2020 3:28,Dry Contact Sensor 01,-25,7.5,Contacts opened
+9/17/2020 3:28,Dry Contact Sensor 01,-26,9.5,Contacts Shorted
+9/17/2020 3:28,Dry Contact Sensor 01,-23,9.5,Contacts opened
+9/17/2020 3:28,Dry Contact Sensor 01,-30,6.2,Contacts Shorted
+9/17/2020 3:27,Dry Contact Sensor 01,-27,9.8,Contacts opened
+9/17/2020 3:27,Dry Contact Sensor 01,-21,8,Contacts Shorted
+9/17/2020 3:27,Dry Contact Sensor 01,-26,9,Contacts opened
+9/17/2020 3:27,Dry Contact Sensor 01,-24,8,Contacts Shorted
+9/17/2020 3:27,Dry Contact Sensor 01,-32,10,Contacts opened
+9/17/2020 3:27,Dry Contact Sensor 01,-27,8.8,Contacts Shorted
+9/17/2020 3:25,Dry Contact Sensor 01,-27,9.2,Contacts opened
+9/17/2020 3:25,Dry Contact Sensor 01,-37,8.8,Contacts Shorted
+9/17/2020 3:24,Dry Contact Sensor 01,-32,9.5,Contacts opened
+9/17/2020 3:24,Dry Contact Sensor 01,-27,9.2,Contacts Shorted
+9/17/2020 3:22,Dry Contact Sensor 01,-27,10.8,Contacts opened
+9/17/2020 3:22,Dry Contact Sensor 01,-33,9.8,Contacts Shorted
+9/17/2020 3:22,Dry Contact Sensor 01,-39,6.8,Contacts opened
+9/17/2020 3:22,Dry Contact Sensor 01,-26,8.2,Contacts Shorted
+9/17/2020 3:21,Dry Contact Sensor 01,-27,10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:20,Dry Contact Sensor 01,-26,8.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:20,Dry Contact Sensor 01,-26,11,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:20,Dry Contact Sensor 01,-23,9.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:19,Dry Contact Sensor 01,-23,8.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:19,Dry Contact Sensor 01,-26,6.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:19,Dry Contact Sensor 01,-27,11.2,Supervisory Message Accumulation Count: 18 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:18,Dry Contact Sensor 01,-21,9.5,Contacts opened
+9/17/2020 3:18,Dry Contact Sensor 01,-26,8.2,Contacts Shorted
+9/17/2020 3:18,Dry Contact Sensor 01,-22,9.8,Contacts opened
+9/17/2020 3:18,Dry Contact Sensor 01,-26,6,Contacts Shorted
+9/17/2020 3:17,Dry Contact Sensor 01,-45,10.5,Contacts opened
+9/17/2020 3:17,Dry Contact Sensor 01,-41,9.5,Contacts Shorted
+9/17/2020 3:16,Dry Contact Sensor 01,-43,9.5,Contacts opened
+9/17/2020 3:16,Dry Contact Sensor 01,-45,9.5,Contacts Shorted
+9/17/2020 3:16,Dry Contact Sensor 01,-48,6.8,Contacts opened
+9/17/2020 3:15,Dry Contact Sensor 01,-49,10.5,Contacts Shorted
+9/17/2020 3:15,Dry Contact Sensor 01,-47,6.5,Contacts opened
+9/17/2020 3:15,Dry Contact Sensor 01,-46,9.5,Contacts Shorted
+9/17/2020 3:15,Dry Contact Sensor 01,-39,9,Contacts opened
+9/17/2020 3:14,Dry Contact Sensor 01,-41,6.2,Contacts Shorted
+9/17/2020 3:14,Dry Contact Sensor 01,-42,9.8,Contacts opened
+9/17/2020 3:14,Dry Contact Sensor 01,-43,8.8,Contacts Shorted
+9/17/2020 3:14,Dry Contact Sensor 01,-42,10.2,Contacts opened
+9/17/2020 3:14,Dry Contact Sensor 01,-51,10,Contacts Shorted
+9/17/2020 3:14,Dry Contact Sensor 01,-29,7.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:14,Dry Contact Sensor 01,-29,9.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:13,Dry Contact Sensor 01,-29,10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:13,Dry Contact Sensor 01,-27,9,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/17/2020 3:05,Dry Contact Sensor 01,-34,9.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 20:54,Dry Contact Sensor 01,-26,11.2,Enclosure Open
+9/15/2020 20:53,Dry Contact Sensor 01,-104,-13.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:53,Dry Contact Sensor 01,-69,10.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:52,Dry Contact Sensor 01,-59,9.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:47,Dry Contact Sensor 01,-95,1.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:47,Dry Contact Sensor 01,-96,-3.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:46,Dry Contact Sensor 01,-96,-6.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:42,Dry Contact Sensor 01,-51,6.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:42,Dry Contact Sensor 01,-63,11,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:42,Dry Contact Sensor 01,-57,9.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:17,Dry Contact Sensor 01,-98,-2.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 19:03,Dry Contact Sensor 01,-62,9.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:54,Dry Contact Sensor 01,-17,9.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:53,Dry Contact Sensor 01,-51,9.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:52,Dry Contact Sensor 01,-24,10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:52,Dry Contact Sensor 01,-22,8.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:50,Dry Contact Sensor 01,-26,9.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:49,Dry Contact Sensor 01,-33,6.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:49,Dry Contact Sensor 01,-110,-8.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:48,Dry Contact Sensor 01,-21,8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:24,Dry Contact Sensor 01,-21,7.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:21,Dry Contact Sensor 01,-17,10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:20,Dry Contact Sensor 01,-15,9.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:20,Dry Contact Sensor 01,-19,10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:20,Dry Contact Sensor 01,-17,10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:18,Dry Contact Sensor 01,-27,13,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:17,Dry Contact Sensor 01,-62,12.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:17,Dry Contact Sensor 01,-62,13,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:16,Dry Contact Sensor 01,-19,8.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:16,Dry Contact Sensor 01,-23,11.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:16,Dry Contact Sensor 01,-23,8.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:15,Dry Contact Sensor 01,-26,12.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:14,Dry Contact Sensor 01,-20,11.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:14,Dry Contact Sensor 01,-52,11.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:13,Dry Contact Sensor 01,-105,-10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:13,Dry Contact Sensor 01,-105,-7,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:09,Dry Contact Sensor 01,-109,-10.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:09,Dry Contact Sensor 01,-110,-8.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:09,Dry Contact Sensor 01,-110,-11.8,Contacts opened
+9/15/2020 18:09,Dry Contact Sensor 01,-110,-10.5,Contacts Shorted
+9/15/2020 18:09,Dry Contact Sensor 01,-109,-7.8,Contacts opened
+9/15/2020 18:09,Dry Contact Sensor 01,-111,-6.8,Contacts Shorted
+9/15/2020 18:09,Dry Contact Sensor 01,-108,-10,Contacts opened
+9/15/2020 18:09,Dry Contact Sensor 01,-111,-8.8,Contacts Shorted
+9/15/2020 18:08,Dry Contact Sensor 01,-109,-7.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:08,Dry Contact Sensor 01,-111,-7.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:08,Dry Contact Sensor 01,-109,-12.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:07,Dry Contact Sensor 01,-110,-10.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:07,Dry Contact Sensor 01,-109,-11.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:07,Dry Contact Sensor 01,-110,-11.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:07,Dry Contact Sensor 01,-111,-6.5,Supervisory Message Accumulation Count: 6 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:07,Dry Contact Sensor 01,-109,-10.5,Contacts opened
+9/15/2020 18:07,Dry Contact Sensor 01,-110,-10,Contacts Shorted
+9/15/2020 18:03,Dry Contact Sensor 01,-111,-7.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:03,Dry Contact Sensor 01,-108,-10.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:03,Dry Contact Sensor 01,-111,-6.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:03,Dry Contact Sensor 01,-115,-4,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:02,Dry Contact Sensor 01,-111,-4.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 18:00,Dry Contact Sensor 01,-108,-10,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:58,Dry Contact Sensor 01,-110,-11.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:57,Dry Contact Sensor 01,-110,-13.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:57,Dry Contact Sensor 01,-109,-11.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:56,Dry Contact Sensor 01,-111,-8.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:56,Dry Contact Sensor 01,-109,-7.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:55,Dry Contact Sensor 01,-110,-11.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:55,Dry Contact Sensor 01,-109,-11.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:53,Dry Contact Sensor 01,-110,-12,Contacts opened
+9/15/2020 17:53,Dry Contact Sensor 01,-105,-13.5,Contacts opened
+9/15/2020 17:53,Dry Contact Sensor 01,-105,-12.5,Contacts Shorted
+9/15/2020 17:52,Dry Contact Sensor 01,-108,-12.8,Contacts Shorted
+9/15/2020 17:52,Dry Contact Sensor 01,-109,-13,Contacts opened
+9/15/2020 17:52,Dry Contact Sensor 01,-108,-10.8,Contacts Shorted
+9/15/2020 17:52,Dry Contact Sensor 01,-110,-11.5,Contacts opened
+9/15/2020 17:51,Dry Contact Sensor 01,-109,-12.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:51,Dry Contact Sensor 01,-107,-11.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:51,Dry Contact Sensor 01,-107,-8.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:50,Dry Contact Sensor 01,-111,-7.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:42,Dry Contact Sensor 01,-107,-13.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:41,Dry Contact Sensor 01,-113,-11.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:41,Dry Contact Sensor 01,-110,-8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:41,Dry Contact Sensor 01,-111,-6,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:41,Dry Contact Sensor 01,-113,-6.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:41,Dry Contact Sensor 01,-109,-12.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:40,Dry Contact Sensor 01,-110,-11.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:40,Dry Contact Sensor 01,-110,-10.2,Supervisory Message Accumulation Count: 8 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:39,Dry Contact Sensor 01,-110,-12.8,Contacts Shorted
+9/15/2020 17:38,Dry Contact Sensor 01,-109,-14,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:37,Dry Contact Sensor 01,-108,-11.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:37,Dry Contact Sensor 01,-100,-6.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:37,Dry Contact Sensor 01,-109,-8.8,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:36,Dry Contact Sensor 01,-110,-10.2,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
+9/15/2020 17:36,Dry Contact Sensor 01,-105,-13.5,Supervisory Message Accumulation Count: 0 Sensor State: Contacts opened Battery: 3.2V
